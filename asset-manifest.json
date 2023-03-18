@@ -1,12 +1,17 @@
 {
   "files": {
-    "main.css": "/metaverse/static/css/main.55ab73b3.css",
-    "main.js": "/metaverse/static/js/main.4e6f763d.js",
+    "main.css": "/metaverse/static/css/main.417dd213.css",
+    "main.js": "/metaverse/static/js/main.2202417f.js",
     "static/media/Flyto.gif": "/metaverse/static/media/Flyto.b26c74dc866d78aeb10b.gif",
     "static/media/bell.gif": "/metaverse/static/media/bell.b43aa29251a4d25b51f5.gif",
+    "static/media/psc.mp4": "/metaverse/static/media/psc.b2b7dc3a67f5dc25f606.mp4",
+    "static/media/time.mp4": "/metaverse/static/media/time.7d13c15d233ecad6ab3d.mp4",
     "static/media/camera.png": "/metaverse/static/media/camera.fa8cc447986e46987130.png",
+    "static/media/search.mp4": "/metaverse/static/media/search.1705b1b9fc0636043c6a.mp4",
+    "static/media/red.mp4": "/metaverse/static/media/red.6855fd297355bd713bd3.mp4",
     "static/media/iranyekanwebthinfanum.eot": "/metaverse/static/media/iranyekanwebthinfanum.410477b05ff19e5c3fc6.eot",
     "static/media/iranyekanwebthinfanum.ttf": "/metaverse/static/media/iranyekanwebthinfanum.aeeaeae6872716ad9495.ttf",
+    "static/media/reward.mp4": "/metaverse/static/media/reward.9d6a5ae92bdc4ea8b277.mp4",
     "static/media/iranyekanweblightfanum.eot": "/metaverse/static/media/iranyekanweblightfanum.93ce7a85ea0aff1c0d38.eot",
     "static/media/iranyekanweblightfanum.ttf": "/metaverse/static/media/iranyekanweblightfanum.ba850144120396ab9cc5.ttf",
     "static/media/iranyekanwebextrablackfanum.eot": "/metaverse/static/media/iranyekanwebextrablackfanum.6b4456b02f5215a77fba.eot",
@@ -21,6 +26,10 @@
     "static/media/iranyekanwebboldfanum.ttf": "/metaverse/static/media/iranyekanwebboldfanum.cce7bbfeb0fc6e515a46.ttf",
     "static/media/iranyekanwebblackfanum.eot": "/metaverse/static/media/iranyekanwebblackfanum.da108a8537ef047a534d.eot",
     "static/media/iranyekanwebblackfanum.ttf": "/metaverse/static/media/iranyekanwebblackfanum.da6b2b374c5edc8176e9.ttf",
+    "static/media/store.mp4": "/metaverse/static/media/store.398a730986d69eb219a7.mp4",
+    "static/media/Calendar.mp4": "/metaverse/static/media/Calendar.41150576018e2d20d882.mp4",
+    "static/media/average-statistics.mp4": "/metaverse/static/media/average-statistics.09e45dcfc9b903ff7dc8.mp4",
+    "static/media/profile.mp4": "/metaverse/static/media/profile.c452287a8a69aeba42bc.mp4",
     "static/media/iranyekanwebmediumfanum.woff": "/metaverse/static/media/iranyekanwebmediumfanum.9c78b97ef5b1f81922e9.woff",
     "static/media/iranyekanwebthinfanum.woff": "/metaverse/static/media/iranyekanwebthinfanum.d1f4f568cc07d6c508a5.woff",
     "static/media/iranyekanwebextrablackfanum.woff": "/metaverse/static/media/iranyekanwebextrablackfanum.4454a52c80bae92179f9.woff",
@@ -29,16 +38,24 @@
     "static/media/iranyekanwebboldfanum.woff": "/metaverse/static/media/iranyekanwebboldfanum.aa6ff8837bb3bd52ea56.woff",
     "static/media/iranyekanwebblackfanum.woff": "/metaverse/static/media/iranyekanwebblackfanum.decfae65f5fe00ab93e1.woff",
     "static/media/iranyekanwebextraboldfanum.woff": "/metaverse/static/media/iranyekanwebextraboldfanum.f78ea94b363a1b5521c6.woff",
+    "static/media/yellow.mp4": "/metaverse/static/media/yellow.c7921698286f950004b3.mp4",
+    "static/media/ping.mp4": "/metaverse/static/media/ping.0224e2c0d587ebda9c53.mp4",
+    "static/media/rial.mp4": "/metaverse/static/media/rial.ff1c89a33263e7d0f735.mp4",
+    "static/media/error.mp4": "/metaverse/static/media/error.1b38fc991d2122343bc5.mp4",
+    "static/media/message.mp4": "/metaverse/static/media/message.7420a51966313eccc53a.mp4",
+    "static/media/accumulated-profit.mp4": "/metaverse/static/media/accumulated-profit.2343c7527419bc83aebc.mp4",
+    "static/media/blue.mp4": "/metaverse/static/media/blue.4e9aad521ff7b878ebbd.mp4",
+    "static/media/satisfaction.mp4": "/metaverse/static/media/satisfaction.5b12602470599122b003.mp4",
     "static/media/iran.png": "/metaverse/static/media/iran.40d701507dd7de63fb21.png",
     "static/media/redHouse.png": "/metaverse/static/media/redHouse.f9298b34f42397f9590e.png",
     "static/media/lock.png": "/metaverse/static/media/lock.9b5fe9e45f2fdbb6a92b.png",
     "static/media/yellowHouse.png": "/metaverse/static/media/yellowHouse.d9746c42e1b0045a51e0.png",
     "index.html": "/index.html",
-    "main.55ab73b3.css.map": "/metaverse/static/css/main.55ab73b3.css.map",
-    "main.4e6f763d.js.map": "/metaverse/static/js/main.4e6f763d.js.map"
+    "main.417dd213.css.map": "/metaverse/static/css/main.417dd213.css.map",
+    "main.2202417f.js.map": "/metaverse/static/js/main.2202417f.js.map"
   },
   "entrypoints": [
-    "static/css/main.55ab73b3.css",
-    "static/js/main.4e6f763d.js"
+    "static/css/main.417dd213.css",
+    "static/js/main.2202417f.js"
   ]
 }
