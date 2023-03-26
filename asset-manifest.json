@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/metaverse/static/css/main.417dd213.css",
-    "main.js": "/metaverse/static/js/main.50e1fe30.js",
+    "main.css": "/metaverse/static/css/main.40595a3a.css",
+    "main.js": "/metaverse/static/js/main.b37fee66.js",
     "static/media/Flyto.gif": "/metaverse/static/media/Flyto.b26c74dc866d78aeb10b.gif",
     "static/media/bell.gif": "/metaverse/static/media/bell.b43aa29251a4d25b51f5.gif",
     "static/media/psc.mp4": "/metaverse/static/media/psc.b2b7dc3a67f5dc25f606.mp4",
@@ -41,6 +41,7 @@
     "static/media/yellow.mp4": "/metaverse/static/media/yellow.c7921698286f950004b3.mp4",
     "static/media/ping.mp4": "/metaverse/static/media/ping.0224e2c0d587ebda9c53.mp4",
     "static/media/rial.mp4": "/metaverse/static/media/rial.ff1c89a33263e7d0f735.mp4",
+    "static/media/like.png": "/metaverse/static/media/like.b88315d0bef6b54f87a5.png",
     "static/media/error.mp4": "/metaverse/static/media/error.1b38fc991d2122343bc5.mp4",
     "static/media/message.mp4": "/metaverse/static/media/message.7420a51966313eccc53a.mp4",
     "static/media/accumulated-profit.mp4": "/metaverse/static/media/accumulated-profit.2343c7527419bc83aebc.mp4",
@@ -51,11 +52,11 @@
     "static/media/lock.png": "/metaverse/static/media/lock.9b5fe9e45f2fdbb6a92b.png",
     "static/media/yellowHouse.png": "/metaverse/static/media/yellowHouse.d9746c42e1b0045a51e0.png",
     "index.html": "/index.html",
-    "main.417dd213.css.map": "/metaverse/static/css/main.417dd213.css.map",
-    "main.50e1fe30.js.map": "/metaverse/static/js/main.50e1fe30.js.map"
+    "main.40595a3a.css.map": "/metaverse/static/css/main.40595a3a.css.map",
+    "main.b37fee66.js.map": "/metaverse/static/js/main.b37fee66.js.map"
   },
   "entrypoints": [
-    "static/css/main.417dd213.css",
-    "static/js/main.50e1fe30.js"
+    "static/css/main.40595a3a.css",
+    "static/js/main.b37fee66.js"
   ]
 }
