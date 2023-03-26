@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/metaverse/static/css/main.40595a3a.css",
-    "main.js": "/metaverse/static/js/main.b37fee66.js",
+    "main.js": "/metaverse/static/js/main.d7cdd11c.js",
     "static/media/Flyto.gif": "/metaverse/static/media/Flyto.b26c74dc866d78aeb10b.gif",
     "static/media/bell.gif": "/metaverse/static/media/bell.b43aa29251a4d25b51f5.gif",
     "static/media/psc.mp4": "/metaverse/static/media/psc.b2b7dc3a67f5dc25f606.mp4",
@@ -53,10 +53,10 @@
     "static/media/yellowHouse.png": "/metaverse/static/media/yellowHouse.d9746c42e1b0045a51e0.png",
     "index.html": "/index.html",
     "main.40595a3a.css.map": "/metaverse/static/css/main.40595a3a.css.map",
-    "main.b37fee66.js.map": "/metaverse/static/js/main.b37fee66.js.map"
+    "main.d7cdd11c.js.map": "/metaverse/static/js/main.d7cdd11c.js.map"
   },
   "entrypoints": [
     "static/css/main.40595a3a.css",
-    "static/js/main.b37fee66.js"
+    "static/js/main.d7cdd11c.js"
   ]
 }
