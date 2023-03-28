@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/metaverse/static/css/main.40595a3a.css",
-    "main.js": "/metaverse/static/js/main.d7cdd11c.js",
+    "main.css": "/metaverse/static/css/main.c81aee14.css",
+    "main.js": "/metaverse/static/js/main.13c26951.js",
     "static/media/Flyto.gif": "/metaverse/static/media/Flyto.b26c74dc866d78aeb10b.gif",
     "static/media/bell.gif": "/metaverse/static/media/bell.b43aa29251a4d25b51f5.gif",
     "static/media/psc.mp4": "/metaverse/static/media/psc.b2b7dc3a67f5dc25f606.mp4",
@@ -52,11 +52,11 @@
     "static/media/lock.png": "/metaverse/static/media/lock.9b5fe9e45f2fdbb6a92b.png",
     "static/media/yellowHouse.png": "/metaverse/static/media/yellowHouse.d9746c42e1b0045a51e0.png",
     "index.html": "/index.html",
-    "main.40595a3a.css.map": "/metaverse/static/css/main.40595a3a.css.map",
-    "main.d7cdd11c.js.map": "/metaverse/static/js/main.d7cdd11c.js.map"
+    "main.c81aee14.css.map": "/metaverse/static/css/main.c81aee14.css.map",
+    "main.13c26951.js.map": "/metaverse/static/js/main.13c26951.js.map"
   },
   "entrypoints": [
-    "static/css/main.40595a3a.css",
-    "static/js/main.d7cdd11c.js"
+    "static/css/main.c81aee14.css",
+    "static/js/main.13c26951.js"
   ]
 }
