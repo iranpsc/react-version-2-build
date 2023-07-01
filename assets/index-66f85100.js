@@ -5265,19 +5265,27 @@ PERFORMANCE OF THIS SOFTWARE.
     left: 40%;
   }
 `,VerificationEmail=()=>{const[tt]=useSearchParams(),et=useNavigate();return jsxRuntimeExports.jsxs(Modal$1,{title:"تایید ایمیل",children:[tt.get("status")==="verified"&&jsxRuntimeExports.jsxs(Container,{children:[jsxRuntimeExports.jsxs(Header,{children:[jsxRuntimeExports.jsx(Image$1,{src:EmailSuccessImage}),jsxRuntimeExports.jsx(SuccessTitle,{children:"ایمیل شما تایید شد "})]}),jsxRuntimeExports.jsxs(Body,{children:[jsxRuntimeExports.jsx("h2",{children:".شما یکی از شهروندان متارنگ شدید"}),jsxRuntimeExports.jsx("h3",{children:"جهت ورود به به متارنگ بر روی دکمه زیر کلیک کنید"})]}),jsxRuntimeExports.jsx(ImageProfile,{src:ProfileImage,onClick:()=>et("/metaverse/login")})]}),tt.get("status")==="already_verified"&&jsxRuntimeExports.jsxs(Container,{children:[jsxRuntimeExports.jsxs(Header,{children:[jsxRuntimeExports.jsx(Image$1,{src:EmailBeforeImage,style:{rotate:"revert"}}),jsxRuntimeExports.jsx(SuccessTitle,{children:"ایمیل شما قبلا تایید شده است "})]}),jsxRuntimeExports.jsxs(Body,{children:[jsxRuntimeExports.jsx("h2",{style:{textAlign:"center"},children:"شما قبلا با این ایمیل ثبت نام وایمیل خود را تایید کرده اید"}),jsxRuntimeExports.jsx("h3",{children:"جهت ورود به به متارنگ بر روی دکمه زیر کلیک کنید"})]}),jsxRuntimeExports.jsx(ImageProfile,{src:ProfileImage,onClick:()=>et("/metaverse/login")})]})]})};function Routers(){return jsxRuntimeExports.jsx(Routes,{children:jsxRuntimeExports.jsxs(Route,{path:"/metaverse",element:jsxRuntimeExports.jsx(Outlet,{}),children:[jsxRuntimeExports.jsx(Route,{path:"login",element:jsxRuntimeExports.jsx(PublicRoute,{children:jsxRuntimeExports.jsx(Login,{})})}),jsxRuntimeExports.jsx(Route,{path:"signup",element:jsxRuntimeExports.jsx(PublicRoute,{children:jsxRuntimeExports.jsx(Signup,{})})}),jsxRuntimeExports.jsx(Route,{path:"sanad",element:jsxRuntimeExports.jsx(PrivateRoute,{children:jsxRuntimeExports.jsx(Sanad,{})})}),jsxRuntimeExports.jsx(Route,{path:"reset-password",element:jsxRuntimeExports.jsx(PublicRoute,{children:jsxRuntimeExports.jsx(ForgetPassword,{})})}),jsxRuntimeExports.jsx(Route,{path:"email",element:jsxRuntimeExports.jsx(PublicRoute,{children:jsxRuntimeExports.jsx(VerificationEmail,{})})}),jsxRuntimeExports.jsx(Route,{path:"confirmation",element:jsxRuntimeExports.jsx(PrivateRoute,{children:jsxRuntimeExports.jsx(Security,{})})}),jsxRuntimeExports.jsx(Route,{path:"report",element:jsxRuntimeExports.jsx(PrivateRoute,{children:jsxRuntimeExports.jsx(Report,{})})}),jsxRuntimeExports.jsx(Route,{path:"settings",element:jsxRuntimeExports.jsx(PrivateRoute,{children:jsxRuntimeExports.jsx(Settings,{})})}),jsxRuntimeExports.jsx(Route,{path:"profile",element:jsxRuntimeExports.jsx(PrivateRoute,{children:jsxRuntimeExports.jsx(Profile,{})})}),jsxRuntimeExports.jsx(Route,{path:"player/:id",element:jsxRuntimeExports.jsx(PrivateRoute,{children:jsxRuntimeExports.jsx(Player,{})})}),jsxRuntimeExports.jsx(Route,{path:"notifications",element:jsxRuntimeExports.jsx(PrivateRoute,{children:jsxRuntimeExports.jsx(Notifications,{})})}),jsxRuntimeExports.jsx(Route,{path:"verification",element:jsxRuntimeExports.jsx(PrivateRoute,{children:jsxRuntimeExports.jsx(Verification,{})})}),jsxRuntimeExports.jsx(Route,{path:"dynasty",element:jsxRuntimeExports.jsx(PrivateRoute,{children:jsxRuntimeExports.jsx(Dynasty,{})})}),jsxRuntimeExports.jsx(Route,{path:"store",element:jsxRuntimeExports.jsx(PrivateRoute,{children:jsxRuntimeExports.jsx(Store,{})})}),jsxRuntimeExports.jsx(Route,{path:"payment/verify",element:jsxRuntimeExports.jsx(PrivateRoute,{children:jsxRuntimeExports.jsx(Verification$1,{})})}),jsxRuntimeExports.jsx(Route,{path:"transaction",element:jsxRuntimeExports.jsx(PrivateRoute,{children:jsxRuntimeExports.jsx(TransactionPayments,{})})}),jsxRuntimeExports.jsx(Route,{path:"verification",element:jsxRuntimeExports.jsx(PrivateRoute,{children:jsxRuntimeExports.jsx(Verification,{})})}),jsxRuntimeExports.jsx(Route,{path:"feature/:id",element:jsxRuntimeExports.jsx(Feature,{})}),jsxRuntimeExports.jsx(Route,{path:"upload/avatar",element:jsxRuntimeExports.jsx(PrivateRoute,{children:jsxRuntimeExports.jsx(UploadAvatar,{})})}),jsxRuntimeExports.jsx(Route,{path:"search",element:jsxRuntimeExports.jsx(PrivateRoute,{children:jsxRuntimeExports.jsx(Search,{})})}),jsxRuntimeExports.jsx(Route,{path:"hour-profit",element:jsxRuntimeExports.jsx(PrivateRoute,{children:jsxRuntimeExports.jsx(HourMeterProfit,{})})}),jsxRuntimeExports.jsxs(Route,{path:"successful",element:jsxRuntimeExports.jsx(Outlet,{}),children:[jsxRuntimeExports.jsx(Route,{path:"commercial",element:jsxRuntimeExports.jsx(Commercial,{})}),jsxRuntimeExports.jsx(Route,{path:"residential",element:jsxRuntimeExports.jsx(Residential,{})}),jsxRuntimeExports.jsx(Route,{path:"educational",element:jsxRuntimeExports.jsx(Educational,{})}),jsxRuntimeExports.jsx(Route,{path:"signup",element:jsxRuntimeExports.jsx(SignupLottie,{})})]})]})})}const FilterIcon="/metaverse/assets/filter-d679d60c.png",MapIcon="/metaverse/assets/maps-fcfb44f1.png",ContainerBtn=styled.div`
-  width:14%;
-  height: 130px;
+  width: 15%;
+  height: 138px;
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 5px;
   position: absolute;
-  top: 17%;
+  top: 2%;
   overflow-y: auto;
   z-index: 999;
+  left: 5%;
   @media (min-width: 1536px) {
+    width: 14%;
+    height: 130px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    left: 0;
     top: 17%;
-    width: 12%;
+    z-index: 999;
   }
 `,Btn=styled.div`
   width: 100%;
